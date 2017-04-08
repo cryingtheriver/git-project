@@ -16,4 +16,8 @@ djddkdkd
 fjdodf 
 dmfkdfjdfls
 jfjkd date
+<<<<<<< HEAD
+>>>>>>> master
+=======
+ghggjggj
 >>>>>>> master
