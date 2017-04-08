@@ -9,4 +9,11 @@ jfidfjdpi
 fkofe
 foflflf
 flldld
+<<<<<<< HEAD
 ffff
+=======
+djddkdkd
+fjdodf 
+dmfkdfjdfls
+jfjkd date
+>>>>>>> master
