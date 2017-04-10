@@ -12,13 +12,13 @@ flldld
 <<<<<<< HEAD
 ffff
 =======
-fkfkfpddd
 djddkdkd
 fjdodf 
 dmfkdfjdfls
 jfjkd date
-<<<<<<< HEAD
+djddkdkd
+fjdodf 
+dmfkdfjdfls
+jfjkd date
 >>>>>>> master
-=======
 ghggjggj
->>>>>>> master
